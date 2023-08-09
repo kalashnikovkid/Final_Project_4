@@ -1,7 +1,7 @@
 **Final_Project_4**
 Group members: Camille, Julien, Tyler
 
-**Comments**
+**Observations/Comments**
 
 Original_Schema.ipynb contains the work that initially guided this project. It contains
 machine learning, an alternative book recommender system, and ETL to the one presented. 
